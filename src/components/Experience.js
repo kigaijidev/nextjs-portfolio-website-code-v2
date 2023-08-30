@@ -62,56 +62,26 @@ const Experience = () => {
           />
           <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">
             <Details
-              position="Software Engineer"
-              company="Google"
-              companyLink="https://google.com"
-              time="2022-Present"
-              address="Mountain View, CA"
-              work="Worked on a team responsible for developing new features for Google's search engine, including improving the accuracy and relevance of search results and developing new tools for data analysis and visualization."
+              position="Intern Back-End Developer"
+              company="Cybersoft Academy"
+              companyLink="https://cybersoft.edu.vn/"
+              time="May 2023 - Aug 2023"
+              address="Ho Chi Minh City, Vietnam"
+              work="Led continuous development, and effectively subdivided tasks.
+              Fostered group discussions, and conducted in-depth problem-solving
+              analysis.Embraced individual learning and practical training opportunities
+              throughout the process."
             />
 
             <Details
-              position="Intern"
-              company="Facebook"
-              companyLink="https://facebook.com"
-              time="Summer 2021"
-              address="Menlo Park, CA."
-              work="Worked on a team responsible for developing a new mobile app
-              feature that allowed users to create and share short-form video
-              content, including designing and implementing a new user interface
-              and developing the backend infrastructure to support the feature."
-            />
-
-            <Details
-              position="Software Developer"
-              company="Amazon"
-              companyLink="https://amazon.com"
-              time="2020-2021"
-              address="Seattle, WA."
-              work="Worked on a team responsible for developing Amazon's mobile app, including implementing new features such as product recommendations and user reviews, and optimizing the app's performance and reliability."
-            />
-
-            <Details
-              position="Software Developer Intern"
-              company="Microsoft"
-              companyLink="https://microsoft.com"
-              time="Summer 2019"
-              address="Redmond, WA."
-              work="Worked on a team responsible for developing new features for
-              Microsoft's Windows operating system, including implementing a new
-              user interface for a system settings panel and optimizing the
-              performance of a core system component."
-            />
-
-            <Details
-              position="Teaching Assistant"
-              company="MIT"
-              companyLink="https://mit.edu"
-              time="Fall 2018"
-              address="Massachusetts Ave, Cambridge, MA."
-              work="Assisted in teaching a course on computer programming, held office
-              hours to help students with assignments, and graded exams and
-              assignments."
+              position="Web Developer"
+              company="Leopard Solutions JSC"
+              companyLink="http://leopardjsc.com/"
+              time="Mar 2021 - Jul 2023"
+              address="An Giang Province, Vietnam"
+              work="Worked on a team responsible for developing and updating versions, 
+              and new features for hospital management software, including improving 
+              the accuracy and relevance of product."
             />
           </ul>
         </div>
